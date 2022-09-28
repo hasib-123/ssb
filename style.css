@@ -1,0 +1,110 @@
+*{
+    margin: 0%;
+}
+header{
+    background-color: chocolate;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+}
+.logo{
+background-color: cyan;
+height: 100%;
+width: 30%;
+color: black;
+text-align: center;
+float: left;
+}
+.banner{
+    background-color: chartreuse;
+    height: 100%;
+    width: 70%;
+    color: black;
+    text-align: center;
+    float: right;
+}
+.bar{
+    background-color:red;
+    height: 100px;
+    width: 100%;
+    color: black;
+    text-align: center;
+    float: left;
+}
+.section{
+width: 100%;
+height: 300px;
+overflow: hidden;
+}
+.sectionleft{
+background-color: aquamarine;
+width: 30%;
+height: 300px;
+float: left;
+color: black;
+text-align: center;
+}
+.sectionmiddle{
+background-color:burlywood;
+width: 40%;
+height: 300px;
+float: left;
+color: black;
+text-align: center;
+overflow: hidden;
+}
+.sectionright{
+background-color: aquamarine;
+width: 30%;
+height: 300px;
+float: left;
+color: black;
+text-align: center;
+}
+.up{
+    background-color:darkcyan;
+    width: 100%;
+    height: 100px;
+    float: ;
+    color: black;
+    text-align: center;
+}
+.middle{
+    background-color:red;
+    width: 100%;
+    height: 100px;
+    color: black;
+    text-align: center;
+    overflow: hidden;
+}
+.down{
+    background-color:darkmagenta;
+    width: 100%;
+    height: 100px;
+    float: ;
+    color: black;
+    text-align: center;
+}
+.middleup{
+    background-color:darkgray;
+    width: 50%;
+    height: 100px;
+    color: black;
+    text-align: center;
+    float: left;
+}
+.middledown{
+    background-color:darkorange;
+    width: 50%;
+    height: 100px;
+    color: black;
+    text-align: center;
+    float: right;
+}
+footer{
+    background-color: chocolate;
+    height: 100px;
+    width: 100%;
+    color: black;
+    text-align: center;
+}
